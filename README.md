@@ -1,2 +1,2 @@
-# proyecto-1
-Primer repositorio 
+# Primer repositorio 
+Repositorio creado con fines educativos 
